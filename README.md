@@ -17,11 +17,15 @@
   <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
 
+---
+### 🌱 What I'm currently learning
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 
 ---
 ### :mailbox_with_mail: Get in touch
 
-- Find me on Linkedin: [![Linkedin Badge](https://img.shields.io/badge/-Wes-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/wes-mehaffy/))
+- Find me on Linkedin: 
+[![Linkedin Badge](https://img.shields.io/badge/-wes-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/wesmehaffy)
 
 <!--
 **wesonweb/wesonweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
