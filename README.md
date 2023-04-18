@@ -24,8 +24,8 @@
 ---
 ### :mailbox_with_mail: Get in touch
 
-- Find me on Linkedin: 
-[![Linkedin Badge](https://img.shields.io/badge/-wes-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/wesmehaffy)
+- Find me on Linkedin:   [![Linkedin_Badge](https://i.stack.imgur.com/gVE0j.png) Wes Mehaffy](https://www.linkedin.com/in/wes-mehaffy)
+&nbsp;
 
 <!--
 **wesonweb/wesonweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
