@@ -2,7 +2,7 @@
 
 ### Hi, I'm Wes :wave:  
 
-:man_technologist: I've created websites for small companies and charitable organisations. I recently completed Le Wagon full stack bootcamp and am currently looking for full stack developer roles.
+:man_technologist: I have experience in front-end web development and have created websites for small companies and charitable organisations. I recently completed Le Wagon full stack bootcamp and am currently looking for full stack developer roles.
 
 ---
 
